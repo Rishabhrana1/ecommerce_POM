@@ -11,6 +11,8 @@ import Pageclasses.LandingPage;
 
 public class Testclasses extends BaseClass{
 
+	
+	//use to run the testcases
 	BaseClass base = new BaseClass();
 	LandingPage landingpage;
 	CartPage cartpage;
